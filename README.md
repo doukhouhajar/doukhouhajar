@@ -9,8 +9,8 @@
 # GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=doukhouhajar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Hajar's GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=doukhouhajar&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=doukhouhajar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Hajar's GitHub stats" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=doukhouhajar&theme=dark&hide_border=true" alt="GitHub streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doukhouhajar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 
 </div>
