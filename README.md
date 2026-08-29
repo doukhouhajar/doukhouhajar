@@ -1,6 +1,5 @@
 ## Salam, I'm Hajar DOUKHOU 
 **I build systems that learn and think carefully about what they optimize for**<br/>
-**Currently: RL research engineering intern @ UM6P College of Computing**<br/>
 
 ## What I'm working on
 
